@@ -8,3 +8,10 @@ The training data contains 7086 sentences, already labeled with 1 (positive sent
 You can make 5 submissions per day. Once you submit your results, you will get an accuracy score computed based on 20% of the test data. This score will position you somewhere on the leaderboard. Once the competition ends, you will see the final accuracy computed based on 100% of the test data. The evaluation metric is the inverse of the the mis-classification error - so the higher the better.   
 
 You can use any classifiers, any features, and either supervised or semi-supervised methods. Be creative in both the methods and the usernames you select!
+
+# Libraries
+wordcloud<br>
+Pandas<br>
+numpy<br>
+sklearn<br>
+matplotlib<br>
